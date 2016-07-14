@@ -1,0 +1,3294 @@
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:06PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:07PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:08PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:22:08PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-08 13:22:27PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-08 13:22:27PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:55PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:56PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:57PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:24:57PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-08 13:25:15PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-08 13:25:15PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:56PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:57PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:58PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:31:58PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-08 13:32:26PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-08 13:32:26PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:11PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:12PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 13:41:12PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-08 13:41:20PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-08 13:41:20PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-08 14:09:53PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:23:49AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:43AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:27:44AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:29:30AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:37AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:38AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:39AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:43:39AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-12 10:55:09AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-12 10:55:09AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:03AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:04AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 10:59:04AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-12 10:59:56AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-12 10:59:56AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:26AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:27AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:27AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:01:27AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-12 11:02:33AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-12 11:02:33AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:46AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:47AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:47AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:22:47AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-12 11:23:12AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-12 11:23:12AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:49AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:50AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:51AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 11:24:51AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-12 11:25:01AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-12 11:25:01AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:39PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:40PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:41PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:17:41PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-12 12:17:58PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-12 12:17:58PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 12:43:31PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:39PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:40PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:40PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:47:40PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:30PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:31PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-12 17:48:31PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:30:36AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:30:36AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:26AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:27AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:40:27AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:40:38AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:40:38AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:16AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:17AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:41:17AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:41:26AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:41:26AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:01AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:02AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:42:02AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:42:28AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:42:28AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:35AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:36AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:45:36AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:45:44AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:45:45AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:56AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:57AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:57AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:47:57AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:48:07AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:48:07AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:37AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:38AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:49:38AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:49:48AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:49:48AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:49AM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:50AM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:50AM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:51AM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 11:51:51AM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 11:52:00AM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 11:52:00AM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:11PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:12PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:12PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:12:12PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:12:22PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:12:22PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:37PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:38PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:39PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:13:39PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:13:48PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:13:48PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:11PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:12PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:12PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:21:12PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:21:22PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:21:22PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:01PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:02PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:02PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:26:02PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:26:12PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:26:12PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:45PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:46PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:46PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:27:46PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:28:27PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:28:27PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:10PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:11PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:11PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:29:11PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:30:20PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:30:20PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:54PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:55PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:55PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:30:55PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:31:03PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:31:03PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:13PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:14PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:14PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:32:14PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:32:21PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:32:21PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:11PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:12PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:34:12PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:34:20PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:34:20PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:09PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:10PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:10PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:35:10PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:35:18PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:35:18PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:53PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:54PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:54PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:36:54PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:37:01PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:37:01PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:24PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:25PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:37:25PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:37:43PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:37:44PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:07PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:08PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:39:08PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:39:18PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:39:19PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:10PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:11PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:12PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:40:12PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:40:27PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:40:27PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:04PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:05PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 12:41:05PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 12:41:15PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 12:41:15PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:28PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:29PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:25:29PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 14:25:43PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 14:25:43PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:21PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:22PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:22PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:26:22PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 14:40:07PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 14:40:07PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:22PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:23PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:40:23PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 14:47:36PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 14:47:36PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:53PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:54PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 14:49:54PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 14:52:47PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 14:52:47PM EDT
+Shutdown Successful
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Initializing Server
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Fedora Version: 3.8.1
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Fedora Build Date: 2015-07-20 12:14:48 UTC-0400
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Server Host Name: localhost
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Server Port: 8080
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Initializing datastore definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Loading Module Definitions
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:28PM EDT
+Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:29PM EDT
+Initializing Triplestore
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:29PM EDT
+Post-Initializing Modules
+[/STATUS]
+
+[STATUS]
+Starting
+2016-07-14 15:52:29PM EDT
+Initializing XACML Authorization Module
+[/STATUS]
+
+[STATUS]
+Stopping
+2016-07-14 15:53:51PM EDT
+Shutting down Fedora Server and modules
+[/STATUS]
+
+[STATUS]
+Stopped
+2016-07-14 15:53:51PM EDT
+Shutdown Successful
+[/STATUS]
+

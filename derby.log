@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Jul 14 15:52:37 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0155-eaf7-d27a-00001a01da30 
+on database directory /Users/rsutton/workarea/github/jfs/fedora/default/derby/fedora3  with class loader WebAppClassLoader=Fedora Repository Server@1e9d721 
+Loaded from file:/private/var/folders/_n/3q_6gvt90bx6mjymy0lpcbkd_mfx8s/T/jetty-localhost-8080-fedora.war-_fedora-any-/webapp/WEB-INF/lib/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=/Users/rsutton/workarea/github/jfs
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+-------------------------------------------------------------------
+Thu Jul 14 15:53:51 EDT 2016: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jul 14 15:53:51 EDT 2016:
+Shutting down instance a816c00e-0155-eaf7-b337-00000c9f78c8 on database directory /Users/rsutton/workarea/github/jfs/fedora/test/derby/fedora3 with class loader WebAppClassLoader=Fedora Repository Server@7d7758be 
+----------------------------------------------------------------
